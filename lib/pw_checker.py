@@ -1,5 +1,3 @@
-# File: lib/password_checker.py
-
 class PasswordChecker:
     def check(self, password):
         if len(password) >= 8:

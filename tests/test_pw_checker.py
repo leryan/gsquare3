@@ -1,4 +1,5 @@
 import pytest
+
 from lib.pw_checker import PasswordChecker
 
 """
